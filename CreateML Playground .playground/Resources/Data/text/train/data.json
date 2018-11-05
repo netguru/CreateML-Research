@@ -1,0 +1,202 @@
+
+[
+   {
+     "text": "burger",
+     "type": "fast food"
+   }, {
+     "text": "fried",
+     "type": "fast food"
+   }, {
+     "text": "mcdonalds",
+     "type": "fast food"
+   }, {
+     "text": "oily",
+     "type": "fast food"
+   }, {
+     "text": "crispy",
+     "type": "fast food"
+   }, {
+     "text": "fat",
+     "type": "fast food"
+   }, {
+     "text": "hamburger",
+     "type": "fast food"
+   }, {
+     "text": "pizza",
+     "type": "fast food"
+   }, {
+     "text": "bagel",
+     "type": "fast food"
+   }, {
+     "text": "bread",
+     "type": "fast food"
+   }, {
+     "text": "waffle",
+     "type": "fast food"
+   }, {
+     "text": "unhealthy",
+     "type": "fast food"
+   }, {    
+     "text": "microwave",
+     "type": "fast food"
+   }, {
+     "text": "cookies",
+     "type": "fast food"
+   }, {
+     "text": "sausage",
+     "type": "fast food"
+   }, {
+     "text": "donut",
+     "type": "fast food"
+   }, {
+     "text": "junk",
+     "type": "fast food"
+   }, {
+     "text": "sweets",
+     "type": "fast food"
+   }, {
+     "text": "processed",
+     "type": "fast food"
+   }, {
+     "text": "sugar",
+     "type": "fast food"
+   }, {
+     "text": "sugar coated nuts",
+     "type": "fast food"
+   }, {
+     "text": "tempura",
+     "type": "fast food"
+   }, {
+     "text": "noodle",
+     "type": "fast food"
+   }, {
+     "text": "kebab",
+     "type": "fast food"
+   }, {
+     "text": "street-food",
+     "type": "fast food"
+   }, {
+     "text": "bacon",
+     "type": "fast food"
+   }, {
+     "text": "chips",
+     "type": "fast food"
+   }, {
+     "text": "baguette",
+     "type": "fast food"
+   }, {
+     "text": "muffin",
+     "type": "fast food"
+   }, {
+     "text": "croisant",
+     "type": "fast food"
+   }, {
+     "text": "pancake",
+     "type": "fast food"
+   }, {
+     "text": "tuna wrap",
+     "type": "healthy"
+   }, {
+     "text": "macrobiotics",
+     "type": "healthy"
+   }, {
+     "text": "wholesome",
+     "type": "healthy"
+   }, {
+     "text": "homecooked",
+     "type": "healthy"
+   }, {
+     "text": "natural",
+     "type": "healthy"
+   }, {
+     "text": "soup",
+     "type": "healthy"
+   }, {
+     "text": "grilled",
+     "type": "healthy"
+   }, {
+     "text": "nourishment",
+     "type": "healthy"
+   }, {
+     "text": "vitamins",
+     "type": "healthy"
+   }, {
+     "text": "nutritious",
+     "type": "healthy"
+   }, {
+     "text": "fresh",
+     "type": "healthy"
+   }, {    
+     "text": "wholemeal",
+     "type": "healthy"
+   }, {
+     "text": "wholegrain",
+     "type": "healthy"
+   }, {
+     "text": "vegan",
+     "type": "healthy"
+   }, {
+     "text": "protein",
+     "type": "healthy"
+   }, {
+     "text": "spinach",
+     "type": "healthy"
+   }, {
+     "text": "beans",
+     "type": "healthy"
+   }, {
+     "text": "hummus",
+     "type": "healthy"
+   }, {
+     "text": "lettuce",
+     "type": "healthy"
+   }, {
+     "text": "homemade",
+     "type": "healthy"
+   }, {
+     "text": "avocado",
+     "type": "healthy"
+   }, {
+     "text": "smoothie",
+     "type": "healthy"
+   }, {
+     "text": "banana",
+     "type": "healthy"
+   }, {
+     "text": "apple",
+     "type": "healthy"
+   }, {
+     "text": "fruits",
+     "type": "healthy"
+   }, {
+     "text": "vegetables",
+     "type": "healthy"
+   }, {
+     "text": "raw",
+     "type": "healthy"
+   }, {
+     "text": "boiled",
+     "type": "healthy"
+   }, {
+     "text": "fish",
+     "type": "healthy"
+   }, {
+     "text": "salad",
+     "type": "healthy"
+   }, {
+     "text": "peanut butter",
+     "type": "healthy"
+   }, {
+     "text": "kombucha",
+     "type": "healthy"
+   }, {
+     "text": "kale",
+     "type": "healthy"
+   }, {
+     "text": "basil",
+     "type": "healthy"
+   }, {
+     "text": "almond milk",
+     "type": "healthy"
+   }
+]
