@@ -2,7 +2,7 @@
  # CreateML Research Playground
  
  By [Anna-Mariia Shkarlinska @Netguru](https://github.com/anyashka) • November 2018\
- [Source on GitHub](https://github.com/netguru/CreateML-Research)
+ [Source on GitHub](https://github.com/netguru/CreateML-Research)\
  [Blog post](https://github.com/netguru/CreateML-Research)
  
  ## Contents
