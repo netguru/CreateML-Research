@@ -1,5 +1,5 @@
 /*:
- That's a bit more advanced level to create a model in comparison to CreateMLUI method.
+ That's an example of a bit more advanced way to create a model, in comparison to CreateMLUI method.
  */
 
 import CreateML
