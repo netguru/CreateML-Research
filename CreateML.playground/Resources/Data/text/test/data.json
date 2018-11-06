@@ -1,0 +1,52 @@
+
+[
+   {
+     "text": "fat",
+     "type": "fast food"
+   }, {
+     "text": "hamburger",
+     "type": "fast food"
+   }, {
+     "text": "sweets",
+     "type": "fast food"
+   }, {
+     "text": "sugar coated nuts",
+     "type": "fast food"
+   }, {
+     "text": "burger with fries",
+     "type": "fast food"
+   }, {
+     "text": "oily potatoes",
+     "type": "fast food"
+   }, {
+     "text": "deep fried fish",
+     "type": "fast food"
+   }, {
+     "text": "fat meat",
+     "type": "fast food"
+   }, {
+     "text": "avocado salad",
+     "type": "healthy"
+   }, {
+     "text": "tuna wrap",
+     "type": "healthy"
+   }, {
+     "text": "nutritious sandwich",
+     "type": "healthy"
+   }, {
+     "text": "fresh vegetables",
+     "type": "healthy"
+   }, {
+     "text": "grilled fish",
+     "type": "healthy"
+   }, {
+     "text": "boiled potatoes",
+     "type": "healthy"
+   }, {
+     "text": "fruit salad",
+     "type": "healthy"
+   }, {
+     "text": "homecooked soup",
+     "type": "healthy"
+   }
+]
