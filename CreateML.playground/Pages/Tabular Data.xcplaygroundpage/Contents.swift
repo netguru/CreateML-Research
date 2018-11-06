@@ -29,6 +29,10 @@ let validationAccuracy = (1.0 - classifier.validationMetrics.classificationError
 let evaluationMetrics = classifier.evaluation(on: testingData)
 let evaluationAccuracy = (1.0 - evaluationMetrics.classificationError) * 100
 
+// Confusion matrix in order to see which labels were classified wrongly.
+let confusionMatrix = evaluationMetrics.confusion
+print("Confusion matrix: \(confusionMatrix)")
+
 // Metadata for saving the model.
 let metadata = MLModelMetadata(author: "Author",
                                shortDescription: "A model trained to classify healthy and fast food lunch",
