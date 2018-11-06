@@ -19,7 +19,7 @@
  
  ## Note
  
- This Playground contains the easy ways to start your journey with CreateML and is a part of the CreateML blog post. The demo app [`Healthy Luncher`](https://github.com/netguru/HealthyLuncher-Demo) was also created for the purpose of this research. With its help it is possible to check out how the models work.
+ This Playground contains the easy ways to start your journey with CreateML and is a part of the CreateML blog post on Netguru blog. The demo app [`Healthy Luncher`](https://github.com/netguru/HealthyLuncher-Demo) was also created for the purpose of this research. With its help it is possible to check out how the models work.
  */
 /*:
  [Next page](@next)
