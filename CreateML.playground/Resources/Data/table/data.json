@@ -5,47 +5,47 @@
      "price": 2,
      "type": "fast food"
    }, {
-      "name": "Burger",
+     "name": "Burger",
      "company": "McDonalds",
      "price": 2,
      "type": "fast food"
    }, {
-      "name": "Fries",
+     "name": "Fries",
      "company": "Burger King",
      "price": 1,
      "type": "fast food"
    }, {
-      "name": "Fried chicken bucket",
+     "name": "Fried chicken bucket",
      "company": "KFC",
      "price": 3,
      "type": "fast food"
-   }, {
-      "name": "Pizza",
+   }, { 
+     "name": "Pizza",
      "company": "Pizza Hut",
      "price": 4,
      "type": "fast food"
    }, {
-      "name": "Vegetable stew",
+     "name": "Vegetable stew",
      "company": "EAT",
      "price": 5,
      "type": "healthy"
    }, {
-      "name": "Curry with boiled fish",
+     "name": "Curry with boiled fish",
      "company": "Whole Foods",
      "price": 5,
      "type": "healthy"
    }, {
-      "name": "Salad",
+     "name": "Salad",
      "company": "Fresh",
      "price": 6,
      "type": "healthy"
    }, {
-      "name": "Grilled tuna",
+     "name": "Grilled tuna",
      "company": "Natural",
      "price": 7,
      "type": "healthy"
    }, {
-      "name": "Fruit salad",
+     "name": "Fruit salad",
      "company": "Healhy",
      "price": 8,
      "type": "healthy"
